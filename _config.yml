@@ -22,8 +22,9 @@ title: kelas3's Projects
 email: salek@utdallas.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Just a collection of some cool projects.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "kelas3.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "kelas3.github.io" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+markdown: kramdown
 github_username: kelas3
 # Build settings
 theme: minima
