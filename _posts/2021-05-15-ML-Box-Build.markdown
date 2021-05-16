@@ -9,3 +9,9 @@ We can start by first listing out the specs for the build:
 - Motherboard:
 - CPU:
 - GPU:
+- Storage:
+-- Hard Drive:
+-- SSD:
+- Power Supply:
+
+
